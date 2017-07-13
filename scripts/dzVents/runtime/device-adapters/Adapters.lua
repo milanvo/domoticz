@@ -33,7 +33,9 @@ local deviceAdapters = {
 	'voltage_device',
 	'wind_device',
 	'zone_heating_device',
-	'kodi_device'
+	'kodi_device',
+	'thermostat_setpoint_virtual',
+	'thermostat_mode_device'
 }
 
 local utils = require('Utils')
