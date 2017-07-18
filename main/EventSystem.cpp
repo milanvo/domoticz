@@ -98,6 +98,8 @@ static const _tJsonMap JsonMap[] =
 	{ "LevelNames",			"levelNames",				tString		},
 	{ "LevelOffHidden",		"levelOffHidden",			tBoolean	},
 	{ "MaxDimLevel",		"maxDimLevel",				tInteger	},
+	{ "Mode",			"mode",					tInteger	},
+	{ "Modes",			"modes",				tString		},
 	{ "Moisture",			"moisture",					tString		},
 	{ "Pressure",			"pressure",					tFloat		},
 	{ "Quality",			"quality",					tString		},
